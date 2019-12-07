@@ -2,8 +2,12 @@
 
 基于 [webstack](https://github.com/WebStackPage/WebStackPage.github.io) 的静态新狼导，为兴趣。
 
-采用了 serverless 的托管方式，更平稳更轻巧。
+采用了现代的 serverless 托管方式，稳定自在。
 
 **网站地址** https://tundrawolf.volf.club/
 
-**备用预览** https://tundrawolf.netlify.com/  [![Netlify Status](https://api.netlify.com/api/v1/badges/b7f85875-a0d8-4a90-bed1-fa3411f1d844/deploy-status)](https://app.netlify.com/sites/tundrawolf/deploys)
+## 备用预览
+
+**Netlify** https://tundrawolf.netlify.com/
+
+**ZEIT** https://tundra-wolf.now.sh/
