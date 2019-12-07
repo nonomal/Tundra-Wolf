@@ -2,7 +2,7 @@
 
 基于 [webstack](https://github.com/WebStackPage/WebStackPage.github.io) 的静态新狼导，为兴趣。
 
-采用了 serverless 托管的方式，更平稳更轻巧。
+采用了 serverless 的托管方式，更平稳更轻巧。
 
 **网站地址** https://tundrawolf.volf.club/
 
