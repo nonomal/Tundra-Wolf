@@ -18,3 +18,7 @@
 
 - 应保留指向 [webstack](https://github.com/WebStackPage/WebStackPage.github.io) 的链接；
 - 请放置一个指向 [群狼动力](https://volf.club/) 的友链（非必须）。
+
+## 支持我们❤
+
+**爱发电** https://afdian.net/@volfclub
